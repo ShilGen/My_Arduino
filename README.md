@@ -7,5 +7,7 @@ This links are very useful:
 - http://www.dfrobot.com/index.php?route=product/product&product_id=347
 - http://www.dfrobot.com/image/data/DFR0092/LCD4884%20v1.2.zip 
    this folder (after unzip) 
-    I copy in /usr/share/arduino/libraries
+    
+   I copy in /usr/share/arduino/libraries
 - http://tronixstuff.com/2011/03/12/the-dfrobot-lcd4884-lcd-shield/
+- http://www.dfrobot.com/wiki/index.php/LCD4884_Shield_For_Arduino_(SKU:DFR0092)
